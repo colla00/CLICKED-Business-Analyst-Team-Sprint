@@ -1,4 +1,5 @@
-Delta Airlines Data and Marketing Strategies | CLICKED
+# Delta Airlines Data and Marketing Strategies | CLICKED
+
 This repository showcases a strategic proposal developed to enhance Delta Airlines' data systems and marketing strategies. The project focuses on addressing key business challenges, implementing innovative solutions, and creating a roadmap for success.
 
 Key Features
